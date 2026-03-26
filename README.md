@@ -94,9 +94,3 @@ Built using Machine Learning (K-Nearest Neighbors) and deployed using Streamlit 
 8. **Deployment**
    - Built UI with Streamlit
    - Hosted on Hugging Face Spaces
-
----
-
-## 🧪 Example
-
-Input:
