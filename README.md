@@ -10,7 +10,7 @@ Built using Machine Learning (K-Nearest Neighbors) and deployed using Streamlit 
 👉 https://huggingface.co/spaces/RamaKrishnaReddy/food-recommender
 
 ## 🚀 Dataset
-👉 https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions
+👉 [Data file CSV](https://www.kaggle.com/datasets/irkaal/foodcom-recipes-and-reviews)
 ---
 
 ## 📌 Features
